@@ -21,6 +21,7 @@
 1. HDD
 2. SSD 
 
+# Подробнее об ОС 
 
 [Linux](Linux.md)
 
