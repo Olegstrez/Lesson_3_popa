@@ -20,3 +20,6 @@
 # Виды жестких дисков
 1. HDD
 2. SSD
+
+
+lm;kjljgklkhl
